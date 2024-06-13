@@ -1,0 +1,2 @@
+# GOpraktika
+Praktika GO
